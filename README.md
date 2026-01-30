@@ -1,4 +1,3 @@
-
 # FairnessForge: Fairness-Centric Adaptive Bias Mitigation Module Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
